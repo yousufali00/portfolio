@@ -1,0 +1,17 @@
+@font-face{
+    font-family:"CherrySwash";
+    
+    src:url("../text-fonts/CherrySwash-Regular.eot") 
+    format("eot"),
+    
+    url("../text-fonts/CherrySwash-Regular.svg") 
+    format("svg"),
+        
+    url("../text-fonts/CherrySwash-Regular.woff") 
+    format("woff"),
+        
+    url("../text-fonts/CherrySwash-Regular.ttf") 
+    format("true-type");
+        
+    
+}
